@@ -25,7 +25,7 @@ p {
     }
 
     p {
-        text-align: 0;
+        text-align: center;
     }
 }
 `
